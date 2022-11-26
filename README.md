@@ -1,6 +1,8 @@
 # GitHubProject by Williann Freitas
 
 ## _An API made whit Asp Net Core 3.1 whit Github library Ocktokit_
+Swagger for tests: http://williannfreitas-001-site1.ctempurl.com/index.html
+
 Github library Ocktokit documentation: http://octokitnet.readthedocs.io/en/latest/.
 
 My focus on this project is the Backend of the application, then i builded
