@@ -12,8 +12,6 @@ the API whit the three endpoint GET and for a better user experience i implement
 #First EndPoint: http://williannfreitas-001-site1.ctempurl.com/api/Users?since={number}
 I made a list of 100 users separete in 10 pages whit filtered information about each user.
 For consult the information of the page, just need to enter in the swagger input a number between 1 and 10.
-#Novo
-#Projeto
 ```
 
 ```sh
