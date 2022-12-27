@@ -23,5 +23,4 @@ To consult the information of one user, just type the logon name in swagger inpu
 #Third EndPoint:http://williannfreitas-001-site1.ctempurl.com/api/users/{:username}/repos
 Same process to consult the list of repositorys. Type the user name in swagger input, and it will return filtred information about all repositorys.
 ```
-This was for me a very nice challenge, i growth a lot whit this experience!
-I Hope the Shaw and Partners team like my solution to this challenge. 
+#Novo Projeto
